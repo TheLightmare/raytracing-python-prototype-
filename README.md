@@ -8,6 +8,7 @@ this is a prototype of raytracing with python and pygame module. The code is dir
  - plane
  - shadows on sphere and plane
  - mirror sphere
+ 
  BUT :
  - we can't change the scene (it is hardcoded right into the formulas)
  
@@ -16,6 +17,7 @@ this is a prototype of raytracing with python and pygame module. The code is dir
  - plane
  - shadows on sphere and plane (glitched on sphere, so this is a beta feature ;) )
  - we can change the scene and add as much planes and spheres as we want (and customize colors)
+ 
  UPDATES INCOMING (not in any order):
  - mirror spheres
  - fix shadows
